@@ -29,8 +29,7 @@ This is a starting template to design a mobile app using Components, Design Toke
 ![](/resources/cover_arid_theme.png)
 ![](/resources/cover_cold_theme.png)
 
-![](/resources/codepen_mobile_home_page.png)
-![](/resources/codepen_mobile_kilter_page.png)
+![](/resources/codepen_screenshot.png)
 
 
 ### Complete the following tasks:
