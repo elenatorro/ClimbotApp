@@ -22,7 +22,18 @@ You need to have an account in Penpot. Download and unzip the Penpot file [Climb
 
 The "Slides" Page contains the details of the exercise.
 
-This is a starting template to design a mobile app using Components, Design Tokens, Flex and Grid Layouts, and export it into code to build a prototype. Complete the following tasks:
+This is a starting template to design a mobile app using Components, Design Tokens, Flex and Grid Layouts, and export it into code to build a prototype.
+
+### Materials and output
+
+![](/resources/cover_arid_theme.png)
+![](/resources/cover_cold_theme.png)
+
+![](/resources/codepen_mobile_home_page.png)
+![](/resources/codepen_mobile_kilter_page.png)
+
+
+### Complete the following tasks:
 
 1. Tokens - Create a new Color Theme using Design Tokens
 2. Molecules Page > General - Create a single component
