@@ -1,4 +1,4 @@
-# Climbot App
+# Climbpot App
 
 This is a simple boilerplate project to design an interactive prototype with Penpot.
 
